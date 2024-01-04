@@ -1,37 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dewanakl/Kamu/main/public/kamu.png" width="200" alt="kamu"></p>
 
-<p align="center">
-<a href="https://packagist.org/packages/kamu/framework"><img src="https://img.shields.io/packagist/dt/kamu/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/kamu/framework"><img src="https://img.shields.io/packagist/v/kamu/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/kamu/framework"><img src="https://img.shields.io/packagist/l/kamu/framework" alt="License"></a>
-</p>
-
-## About Kamu
-
-Kamu adalah PHP framework yang sangat sederhana. Saking sederhananya, serasa di localhost!!.
-<br>
-Dibantu dengan saya console untuk mempermudah dalam development aplikasi Anda.
-
-## Api Spec
-
-See in file /routes/routes.php
-
-## Play with this application
-
-Here are the commands to play with this application like tinker in laravel.
-For example you can get data from a database or insert, update, delete, etc.
-
-```bash
-php saya play
-```
-
-## Deployment on vercel
-
-- Clone or download this repository
-
-    ```bash
-    git clone https://github.com/dewanakl/undangan-api.git
-    ```
 
 - Install package
 
